@@ -34,7 +34,7 @@ This website showcases my skills, projects, certifications, and achievements as 
 
 ## 🖼 Preview
 
-![Portfolio Screenshot](./My_portfolio.png)  
+![Portfolio Screenshot](./My_Portfolio.png.jpg)  
 
 
 ---
